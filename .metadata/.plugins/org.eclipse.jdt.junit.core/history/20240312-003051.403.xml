@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="UserRepositorytest.testGetUserByEmail" project="ShopmeBackEnd" tests="1" started="1" failures="1" errors="0" ignored="0">
+  <testsuite name="com.shopme.admin.user.UserRepositorytest" time="0.785" displayname="UserRepositorytest" uniqueid="[engine:junit-jupiter]/[class:com.shopme.admin.user.UserRepositorytest]">
+    <testcase name="testGetUserByEmail" classname="com.shopme.admin.user.UserRepositorytest" time="0.785" displayname="testGetUserByEmail()" uniqueid="[engine:junit-jupiter]/[class:com.shopme.admin.user.UserRepositorytest]/[method:testGetUserByEmail()]">
+      <failure>java.lang.AssertionError: &#13;
+Expecting actual not to be null&#13;
+	at com.shopme.admin.user.UserRepositorytest.testGetUserByEmail(UserRepositorytest.java:54)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)&#13;
+&#13;
+</failure>
+    </testcase>
+  </testsuite>
+</testrun>
